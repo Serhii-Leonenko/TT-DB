@@ -1,0 +1,4 @@
+couchbase==4.0.2
+numpy==1.23.1
+pandas==1.4.3
+
